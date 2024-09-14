@@ -27,3 +27,12 @@ gh-pages/
 pkg/
 test/dest
 tmp/*
+
+__pycache__
+*.pyc
+*.pyd
+*.pyo
+.vscode
+.idea
+Thumbs.db
+.Ds_Store
